@@ -40,10 +40,6 @@ DATABASE_NAME=
 
 ```markdown
 npm i
-
-# or
-
-yarn add
 ```
 
 ---
