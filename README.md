@@ -50,15 +50,13 @@ yarn add
 
 ## Running
 
-- ```markdown
-  docker-compose up 🚀
-  ```
+```markdown
+docker-compose up 🚀
+```
 
-````
-
-- ```markdown
- npm run dev 🚀
-````
+```markdown
+npm run dev 🚀
+```
 
 ---
 
